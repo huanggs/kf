@@ -1,0 +1,1 @@
+<div id="footer">Powered by GhostHuang</div>
