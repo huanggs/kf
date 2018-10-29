@@ -1,1 +1,1 @@
-<div id="footer">Powered by GhostHuang</div>
+<div id="footer">Powered by Zeech</div>
